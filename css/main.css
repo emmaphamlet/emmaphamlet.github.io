@@ -179,3 +179,15 @@ a {
    /* display: none;  ------- this has been commented out */
    display: block;
 }
+
+.card {
+    border-radius: 14px;
+}
+
+.card-body {
+    padding: 1.75rem;
+}
+
+#wrapper {
+    max-width: 1100px;
+}
