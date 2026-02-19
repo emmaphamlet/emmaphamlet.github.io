@@ -1,31 +1,55 @@
-# Free Academic Website Template (Bootstrap v5.3)
+# Emma Hamlet — Portfolio Website
 
-This website template is free! I designed it for academics—everyone from graduate students entering the job market to established faculty. With some modification, it could easily serve professionals in many areas. 
+This repository contains the source code for my personal portfolio website showcasing projects in product management, UX research, and data analysis.
 
-It's designed with the ubiquitous and popular front-end, Bootstrap (v5.3). And it's even easier to modify with my free <a href="https://bootstrapr.io" target="_blank">Bootstrapr.io</a> app. The documentation ('Docs') has more information and a helpful explainer videos on modifying and uploading (hosting) the template online.
-
-[![View the Docs](https://img.shields.io/badge/View_the_Docs-007bff?style=for-the-badge)](https://randal-sean-harrison.github.io/randal-sean-harrison-academic-website-template-bootstrap-5/docs.html)
-
----
-
-## Features
-
-* Fully responsive design (mobile-first & mobile-friendly)
-* Takes advantage of all the styles and affordances of Bootstrap v5.x (accordions, tooltips, etc.)
-
-## Technologies
-
-* **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap 5.3, Bootstrap Icons
-* **Deployment:** GitHub Pages
-
-## License
-
-Distributed under the **MIT License**. See the [`LICENSE.md`](LICENSE.md) file for more information.
-
-## Contact/Author
-
-**Author:** Randal Sean Harrison, PhD | [rharriso@nd.edu](mailto:rharriso@nd.edu) | [randalseanharrison.com](https://randalseanharrison.com)
+Live Site:
+https://emmaphamlet.github.io
 
 ---
 
-**Project Link:** `https://github.com/randal-sean-harrison/randal-sean-harrison-academic-website-template-bootstrap-5`
+## About
+
+I am a University of Washington Informatics and Psychology student interested in product management, UX research, and data-informed decision making.
+
+This site highlights academic and independent projects focused on:
+
+- Product strategy
+- User-centered design
+- Data analysis
+- Research synthesis
+
+---
+
+## Featured Projects
+
+### Music and Mental Health Analysis
+Exploratory data analysis examining relationships between music listening habits and self-reported mental health outcomes using Python and statistical testing.
+
+### Modernizing University Course Registration System
+Product management case study exploring improvements to university course registration workflows through stakeholder research, requirements analysis, and UX-driven solution design.
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- GitHub Pages
+
+---
+
+## Customization
+
+This website was originally adapted from an open-source Bootstrap template and extensively customized to reflect my professional portfolio and project work.
+
+---
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/emma-hamlet-64415224a
+
+GitHub:
+https://github.com/emmaphamlet
